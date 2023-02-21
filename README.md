@@ -1,3 +1,6 @@
+![Snake animation](https://github.com/Varadmurty-mohod/Varadmurty-mohod/blob/output/github-contribution-grid-snake.svg)
+
+
 - 👋 Hey there! I'm Varadmurty
 - 👀 I’m interested in Data Analytics, Iot, Machine Learning, AI, Databases and Electric/Hybrid Autonomous cars.
 - 🌱 I’m currently learning more about Quantitative Analytics.
