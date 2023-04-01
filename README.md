@@ -2,9 +2,9 @@
 
 
 - 👋 Hey there! I'm Varadmurty
-- 👀 I’m interested in Data Analytics, Iot, Machine Learning, AI, Databases and Electric/Hybrid Autonomous cars.
+- 👀 I’m interested in Data Analytics, Machine Learning, AI and Databases.
 - 🌱 I’m currently learning more about Quantitative Analytics.
-- 💞️ I’m looking to collaborate on Data Science or Iot based projects.
+- 💞️ I’m looking to collaborate on Data Analytics/Science/Data Engineering Projects
 
 <!---
 Varadmurty-mohod/Varadmurty-mohod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
