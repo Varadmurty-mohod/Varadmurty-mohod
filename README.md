@@ -13,9 +13,13 @@ Roles of interest:
 Data Analyst, Quantitative Finance Analyst, Tech Consultant, and Research roles in Smart Contracts, Health Informatics, Feature Extraction through Advanced Signal Processing, and Business Decisions/ Quantitative Finance.
 
 Programming: Python, SQL, Java, C++
+
 Data Visualisation: Power BI, Tableau, AWS Quicksight
+
 Data Engineering: Talend, Alteryx, Navicat, Advanced Microsoft Excel
+
 Database Systems: MySQL, SQL Server, PostgreSQL, NoSQL, Oracle SQL, MongoDB
+
 Cloud: Azure, AWS , IBM
 
 Books I'm currently reading: Murakami: 'Norwegian Wood' and 'Men Without Women', Nigel Calder: Einstein's Universe. (Totally open to recommendations)
