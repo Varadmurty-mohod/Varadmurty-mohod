@@ -10,6 +10,7 @@ I'm a Graduate Information Systems student at Northeastern University with a con
 
 ## Everything Data
 
+
 Let me take you along on this really cool journey of diving into data and predicting the future!(kinda)
 ![cyberpunkfinal](https://user-images.githubusercontent.com/69577585/230152531-1be44ba9-da83-4504-8cbf-f1c19ef8d130.gif)
 
