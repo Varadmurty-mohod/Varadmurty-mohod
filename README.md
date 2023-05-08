@@ -7,6 +7,13 @@
 # Hi, I'm Varad
 ## I'm a Graduate Information Systems student at Northeastern University with a concentration on Data Engineering and Analytics. Conversing with Data; Finding new ways to extract insights and implement them in fields like Finance, Marketing, Health Informatics, and Business Decisions.
 
+## My Linkedin: https://www.linkedin.com/in/varadmurty-mohod/
+
+## I wrote some really cool(and funny) data science articles here: https://medium.com/@varadmurtymohod
+
+## My Tableau Public: https://public.tableau.com/app/profile/varadmurty.mohod
+
+
 ## Everything Data.
 
 Roles of interest:
